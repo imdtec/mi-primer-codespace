@@ -105,7 +105,7 @@ La suma de 5 + 3 es 8
 
 | Nombre            | Rol                |
 | ----------------- | ------------------ |
-| Juan Carlos Bello | Autor y mantenedor |
+| Juan Carlos Bello Robles | Autor y mantenedor |
 
 ---
 
